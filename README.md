@@ -7,8 +7,15 @@ penetration testing, vulnerability assessment,
 network security, and practical security research.
 
 ## Certifications & Training
-- CPENT — EC-Council
+- CPENT — EC-Council (Certified)
+- CLLMSE - Red Team Leaders
+- C3SA - Cyberwarfare Labs
+- Networking by Cisco - Netacad
+
+- TRAINING
 - CCNA training
+- CEH training
+- CHFI training
 - Hands-on cybersecurity labs
 
 ## Technical Skills
