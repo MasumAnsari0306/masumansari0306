@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Masum Ansari 👋
 
-<!--
-**MasumAnsari0306/masumansari0306** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Cybersecurity | VAPT | Network Security
 
-Here are some ideas to get you started:
+I'm a Computer Science graduate interested in
+penetration testing, vulnerability assessment,
+network security, and practical security research.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Certifications & Training
+- CPENT — EC-Council
+- CCNA training
+- Hands-on cybersecurity labs
+
+## Technical Skills
+- Networking: TCP/IP, DNS, Nmap, Wireshark
+- Security: Burp Suite, Metasploit, OpenVAS
+- Platforms: Linux, Windows, Kali Linux
+- Learning: Web application security, Python automation
+
+## Projects
+- Networking Security Labs
+- Web Application Security Labs
+- Cybersecurity Python Tools
+- VAPT Lab Reports
+
+## Connect with me
+- LinkedIn: https://www.linkedin.com/in/masum-ansari-342aa2407/
+
+
